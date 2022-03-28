@@ -1,0 +1,21 @@
+{
+    "os": "Windows-10-10.0.19042-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-03-28T20:12:22.175272",
+    "startedAt": "2022-03-28T20:12:19.432292",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 2070 with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\Gilberto\\AppData\\Roaming\\jupyter\\runtime\\kernel-bb362aa9-795c-4486-9513-a19c80845948.json"
+    ],
+    "state": "running",
+    "program": "notebooks/exploring_dataset.ipynb",
+    "root": "C:\\Users\\Gilberto\\Desktop\\diabetes",
+    "host": "LAPTOP-2HU8I7M9",
+    "username": "Gilberto",
+    "executable": "C:\\Users\\Gilberto\\Anaconda3\\envs\\stacklabs\\python.exe"
+}
